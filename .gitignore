@@ -1,0 +1,6 @@
+# GUI code for timestamp
+tdc1_GUI
+
+# Virtual envs
+venv
+.venv
